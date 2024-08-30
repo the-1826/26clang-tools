@@ -38,7 +38,7 @@ For switching the language, use:
 
 `encoder.exe russian.gxt`
 
-This will generate a new_russian.gxt file for the mobile version of the game in the same folder.
+This will generate a result.gxt file for the mobile version of the game in the same folder.
 
 ## VagMemeInsert
 
